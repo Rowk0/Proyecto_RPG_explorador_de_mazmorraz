@@ -1,0 +1,12 @@
+# --- Habitaciones visibles (forman el mapa inicial) ---
+5|Guarida del dragón|Una caverna iluminada por lava.|COMBATE|Espada legendaria|Dragón|N|8,3
+2|Sala de esqueletos|Huesos esparcidos por el suelo.|COMBATE|Escudo de bronce|Esqueleto|N|1,7,8
+8|Pasillo de antorchas|Las llamas tiemblan sin viento.|COMBATE|-|Murciélagos|N|2,5
+1|Entrada|Un portón de hierro oxidado.|INICIO|-|-|N|2,3
+3|Biblioteca|Estantes cubiertos de polvo.|TESORO|Pergamino antiguo|-|N|1,5,80
+7|Celda abandonada|Cadenas rotas cuelgan del muro.|VACIA|-|-|N|2
+80|Armería|Armaduras vacías vigilan la sala.|TESORO|Arco élfico|-|N|3
+# --- Habitaciones secretas (no se cargan al inicio) ---
+99|Cámara secreta|Un muro falso oculta esta sala.|SECRETA|Corona de rubíes|-|S|8
+65|Santuario oculto|Runas brillan en el suelo.|SECRETA|Poción de vida|Guardián|S|5,3
+85|Bóveda del tesoro|Monedas de oro hasta el techo.|SECRETA|Cofre de oro|Mímico|S|80
