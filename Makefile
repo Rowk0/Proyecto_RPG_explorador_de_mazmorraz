@@ -1,5 +1,5 @@
 CC=gcc
-EXEC=funciones.out
+EXEC=main.out
 GRUPO=1
 NTAR=2
 
